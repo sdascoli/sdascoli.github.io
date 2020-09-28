@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Stéphane d&#39;Ascoli</title>
+    <link>https://sdascoli.github.io//publication/</link>
+      <atom:link href="https://sdascoli.github.io//publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdascoli.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://sdascoli.github.io//publication/</link>
+    </image>
+    
+    <item>
+      <title>Double Trouble in Double Descent: Bias and Variance (s) in the Lazy Regime</title>
+      <link>https://sdascoli.github.io//publication/double-trouble/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/double-trouble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling description of generalization with number of parameters in deep learning</title>
+      <link>https://sdascoli.github.io//publication/scaling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triple descent and the two kinds of overfitting: Where &amp; why do they appear?</title>
+      <link>https://sdascoli.github.io//publication/triple-descent/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/triple-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A jamming transition from under-to over-parametrization affects generalization in deep learning</title>
+      <link>https://sdascoli.github.io//publication/double-descent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/double-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditioned Query Generation for Task-Oriented Dialogue Systems</title>
+      <link>https://sdascoli.github.io//publication/vae/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias</title>
+      <link>https://sdascoli.github.io//publication/needle-haystack/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/needle-haystack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamming transition as a paradigm to understand the loss landscape of deep neural networks</title>
+      <link>https://sdascoli.github.io//publication/jamming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/jamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic Emission from Supermassive Binary Black Holes Approaching Merger</title>
+      <link>https://sdascoli.github.io//publication/black-holes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io//publication/black-holes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
