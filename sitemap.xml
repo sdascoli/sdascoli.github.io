@@ -1,246 +1,178 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://sdascoli.github.io//publication-type/2/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//talk/icml2020/</loc>
+    <loc>https://sdascoli.github.io/publication-type/2/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/ari-morcos/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/authors/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/convit/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/giulio-biroli/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/hugo-touvron/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/levent-sagun/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/marylou-gabrie/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/matthew-leavitt/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/strong-weak/</loc>
+    <lastmod>2021-04-10T23:42:17+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication_types/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/stephane-dascoli/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/talk/icml2020/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication_types/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//talk/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/talk/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//talk/ictp/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/talk/ictp/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication-type/1/</loc>
     <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication-type/1/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/arthur-jacot/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/clement-hongler/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/double-trouble/</loc>
     <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/arthur-jacot/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//authors/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/florent-krzakala/</loc>
     <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/clement-hongler/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/franck-gabriel/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/double-trouble/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/maria-refinetti/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/mario-geiger/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/matthieu-wyart/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/ruben-ohana/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/scaling/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/sebastian-goldt/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/stefano-spigler/</loc>
+    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/stephane-d-ascoli/</loc>
     <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/florent-krzakala/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/dfa/</loc>
+    <lastmod>2021-04-10T23:42:40+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/triple-descent/</loc>
     <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/franck-gabriel/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/double-descent/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/giulio-biroli/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/levent-sagun/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/maria-refinetti/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/mario-geiger/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/alexandre-caulier/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/matthieu-wyart/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/alice-coucke/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/scaling/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/vae/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/stefano-spigler/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/needle-haystack/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/stephane-dascoli/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/triple-descent/</loc>
-    <lastmod>2020-09-27T23:09:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/double-descent/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/francesco-caltagirone/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/alexandre-caulier/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/g-biroli/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/alice-coucke/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/jamming/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/vae/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/joan-bruna/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/needle-haystack/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/l-sagun/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/francesco-caltagirone/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/m-geiger/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/g-biroli/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/m-wyart/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/jamming/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/marc-lelarge/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/joan-bruna/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/marco-baity-jesi/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/l-sagun/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/s-dascoli/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/m-geiger/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/s-spigler/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/m-wyart/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/dennis-b-bowen/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/marc-lelarge/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/publication/black-holes/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/marco-baity-jesi/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/julian-h-krolik/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/s-dascoli/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/manuela-campanelli/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/s-spigler/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/scott-c-noble/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/dennis-b-bowen/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/vassilios-mewes/</loc>
     <lastmod>2020-09-27T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>https://sdascoli.github.io/categories/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/post/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/author/stephane-dascoli/</loc>
+  </url><url>
+    <loc>https://sdascoli.github.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//publication/black-holes/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/julian-h-krolik/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/manuela-campanelli/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/scott-c-noble/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/vassilios-mewes/</loc>
-    <lastmod>2020-09-27T23:09:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//author/stephane-dascoli/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdascoli.github.io//tags/</loc>
-  </url>
-  
 </urlset>

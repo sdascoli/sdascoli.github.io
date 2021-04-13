@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesco Caltagirone | Stéphane d&#39;Ascoli</title>
-    <link>https://sdascoli.github.io//author/francesco-caltagirone/</link>
-      <atom:link href="https://sdascoli.github.io//author/francesco-caltagirone/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sdascoli.github.io/author/francesco-caltagirone/</link>
+      <atom:link href="https://sdascoli.github.io/author/francesco-caltagirone/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesco Caltagirone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sdascoli.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>Francesco Caltagirone</title>
-      <link>https://sdascoli.github.io//author/francesco-caltagirone/</link>
+      <link>https://sdascoli.github.io/author/francesco-caltagirone/</link>
     </image>
     
     <item>
       <title>Conditioned Query Generation for Task-Oriented Dialogue Systems</title>
-      <link>https://sdascoli.github.io//publication/vae/</link>
+      <link>https://sdascoli.github.io/publication/vae/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io//publication/vae/</guid>
+      <guid>https://sdascoli.github.io/publication/vae/</guid>
       <description></description>
     </item>
     
