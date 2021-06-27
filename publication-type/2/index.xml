@@ -5,12 +5,28 @@
     <link>https://sdascoli.github.io/publication-type/2/</link>
       <atom:link href="https://sdascoli.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://sdascoli.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>L&#39;espace est courbe, qu&#39;est-ce à dire?</title>
+      <link>https://sdascoli.github.io/media/klein/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/media/klein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Bang et trous noirs</title>
+      <link>https://sdascoli.github.io/media/bonnec/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/media/bonnec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases</title>
@@ -25,6 +41,14 @@
       <link>https://sdascoli.github.io/publication/strong-weak/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/strong-weak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformed CNNs: recasting pre-trained convolutional layers with self-attention</title>
+      <link>https://sdascoli.github.io/publication/d-2021-transformed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/d-2021-transformed/</guid>
       <description></description>
     </item>
     
