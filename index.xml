@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>More data or more parameters? Investigating the effect of data structure on generalization</title>
+      <title>On the interplay between data structure and loss function in classification problems</title>
       <link>https://sdascoli.github.io/publication/strong-weak/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/strong-weak/</guid>
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Triple descent and the two kinds of overfitting: where &amp;amp; why do they appear?</title>
+      <title>Triple descent and the two kinds of overfitting: where and why do they appear?</title>
       <link>https://sdascoli.github.io/publication/triple-descent/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/triple-descent/</guid>
