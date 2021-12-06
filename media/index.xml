@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Stéphane d&#39;Ascoli</title>
+    <link>https://sdascoli.github.io/media/</link>
+      <atom:link href="https://sdascoli.github.io/media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://sdascoli.github.io/media/</link>
+    </image>
+    
+    <item>
+      <title>L&#39;espace est courbe, qu&#39;est-ce à dire?</title>
+      <link>https://sdascoli.github.io/media/klein/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/media/klein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Bang et trous noirs</title>
+      <link>https://sdascoli.github.io/media/bonnec/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/media/bonnec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
