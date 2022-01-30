@@ -5,7 +5,7 @@
     <link>https://sdascoli.github.io/author/maria-refinetti/</link>
       <atom:link href="https://sdascoli.github.io/author/maria-refinetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Refinetti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>Maria Refinetti</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Double Trouble in Double Descent: Bias and Variance (s) in the Lazy Regime</title>
-      <link>https://sdascoli.github.io/publication/double-trouble/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/double-trouble/</guid>
+      <title>Align, then memorise: the dynamics of learning with feedback alignment</title>
+      <link>https://sdascoli.github.io/publication/dfa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/dfa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The dynamics of learning with feedback alignment</title>
-      <link>https://sdascoli.github.io/publication/dfa/</link>
+      <title>Double Trouble in Double Descent: Bias and Variance (s) in the Lazy Regime</title>
+      <link>https://sdascoli.github.io/publication/double-trouble/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/dfa/</guid>
+      <guid>https://sdascoli.github.io/publication/double-trouble/</guid>
       <description></description>
     </item>
     

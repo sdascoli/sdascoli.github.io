@@ -5,12 +5,28 @@
     <link>https://sdascoli.github.io/author/stephane-dascoli/</link>
       <atom:link href="https://sdascoli.github.io/author/stephane-dascoli/index.xml" rel="self" type="application/rss+xml" />
     <description>Stéphane d’Ascoli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>Stéphane d’Ascoli</title>
       <link>https://sdascoli.github.io/author/stephane-dascoli/</link>
     </image>
+    
+    <item>
+      <title>Deep Symbolic Regression for Recurrent Sequences</title>
+      <link>https://sdascoli.github.io/publication/recur/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/recur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Align, then memorise: the dynamics of learning with feedback alignment</title>
+      <link>https://sdascoli.github.io/publication/dfa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/dfa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases</title>
@@ -30,9 +46,17 @@
     
     <item>
       <title>Transformed CNNs: recasting pre-trained convolutional layers with self-attention</title>
-      <link>https://sdascoli.github.io/publication/d-2021-transformed/</link>
+      <link>https://sdascoli.github.io/publication/transformed/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/d-2021-transformed/</guid>
+      <guid>https://sdascoli.github.io/publication/transformed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditioned Text Generation with Transfer for Closed-Domain Dialogue Systems</title>
+      <link>https://sdascoli.github.io/publication/vae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/vae/</guid>
       <description></description>
     </item>
     
@@ -53,18 +77,10 @@
     </item>
     
     <item>
-      <title>The dynamics of learning with feedback alignment</title>
-      <link>https://sdascoli.github.io/publication/dfa/</link>
+      <title>Triple descent and the two kinds of overfitting: where and why do they appear?</title>
+      <link>https://sdascoli.github.io/publication/triple-descent/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/dfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conditioned Query Generation for Task-Oriented Dialogue Systems</title>
-      <link>https://sdascoli.github.io/publication/vae/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/vae/</guid>
+      <guid>https://sdascoli.github.io/publication/triple-descent/</guid>
       <description></description>
     </item>
     

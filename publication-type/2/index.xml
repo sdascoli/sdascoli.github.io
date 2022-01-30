@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases</title>
-      <link>https://sdascoli.github.io/publication/convit/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/convit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On the interplay between data structure and loss function in classification problems</title>
       <link>https://sdascoli.github.io/publication/strong-weak/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -46,9 +38,9 @@
     
     <item>
       <title>Transformed CNNs: recasting pre-trained convolutional layers with self-attention</title>
-      <link>https://sdascoli.github.io/publication/d-2021-transformed/</link>
+      <link>https://sdascoli.github.io/publication/transformed/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/d-2021-transformed/</guid>
+      <guid>https://sdascoli.github.io/publication/transformed/</guid>
       <description></description>
     </item>
     
@@ -77,26 +69,10 @@
     </item>
     
     <item>
-      <title>The dynamics of learning with feedback alignment</title>
-      <link>https://sdascoli.github.io/publication/dfa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/dfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A jamming transition from under-to over-parametrization affects generalization in deep learning</title>
       <link>https://sdascoli.github.io/publication/double-descent/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/double-descent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conditioned Query Generation for Task-Oriented Dialogue Systems</title>
-      <link>https://sdascoli.github.io/publication/vae/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/vae/</guid>
       <description></description>
     </item>
     
