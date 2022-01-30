@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ari S Morcos | Stéphane d&#39;Ascoli</title>
+    <link>https://sdascoli.github.io/author/ari-s-morcos/</link>
+      <atom:link href="https://sdascoli.github.io/author/ari-s-morcos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ari S Morcos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
+      <title>Ari S Morcos</title>
+      <link>https://sdascoli.github.io/author/ari-s-morcos/</link>
+    </image>
+    
+    <item>
+      <title>ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases</title>
+      <link>https://sdascoli.github.io/publication/convit/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/convit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

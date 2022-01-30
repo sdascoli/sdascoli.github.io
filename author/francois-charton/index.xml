@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>François Charton | Stéphane d&#39;Ascoli</title>
+    <link>https://sdascoli.github.io/author/francois-charton/</link>
+      <atom:link href="https://sdascoli.github.io/author/francois-charton/index.xml" rel="self" type="application/rss+xml" />
+    <description>François Charton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
+      <title>François Charton</title>
+      <link>https://sdascoli.github.io/author/francois-charton/</link>
+    </image>
+    
+    <item>
+      <title>Deep Symbolic Regression for Recurrent Sequences</title>
+      <link>https://sdascoli.github.io/publication/recur/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/recur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
