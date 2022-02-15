@@ -5,12 +5,20 @@
     <link>https://sdascoli.github.io/author/maria-refinetti/</link>
       <atom:link href="https://sdascoli.github.io/author/maria-refinetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Refinetti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>Maria Refinetti</title>
       <link>https://sdascoli.github.io/author/maria-refinetti/</link>
     </image>
+    
+    <item>
+      <title>Optimal learning rate schedules in high-dimensional non-convex optimization problems</title>
+      <link>https://sdascoli.github.io/publication/schedule/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/schedule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Align, then memorise: the dynamics of learning with feedback alignment</title>
