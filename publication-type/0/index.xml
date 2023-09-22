@@ -29,22 +29,6 @@
     </item>
     
     <item>
-      <title>Deep Symbolic Regression for Recurrent Sequences</title>
-      <link>https://sdascoli.github.io/publication/recur/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/recur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>End-to-End Symbolic Regression with Transformers</title>
-      <link>https://sdascoli.github.io/publication/sr/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sdascoli.github.io/publication/sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimal learning rate schedules in high-dimensional non-convex optimization problems</title>
       <link>https://sdascoli.github.io/publication/schedule/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>

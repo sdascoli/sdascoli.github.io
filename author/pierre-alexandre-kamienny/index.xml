@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Deep Symbolic Regression for Recurrent Sequences</title>
+      <title>Deep symbolic regression for recurrence prediction</title>
       <link>https://sdascoli.github.io/publication/recur/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/recur/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>End-to-End Symbolic Regression with Transformers</title>
+      <title>End-to-end symbolic regression with transformers</title>
       <link>https://sdascoli.github.io/publication/sr/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/sr/</guid>
