@@ -5,7 +5,7 @@
     <link>https://sdascoli.github.io/publication/</link>
       <atom:link href="https://sdascoli.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sdascoli.github.io/images/icon_huee8cdd0d6e28532bd05f8ab65b42238b_575095_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,16 +15,24 @@
     <item>
       <title>Boolformer: Symbolic Regression of Logic Functions with Transformers</title>
       <link>https://sdascoli.github.io/publication/boolformer/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/boolformer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Length Generalization in Arithmetic Transformers</title>
+      <title>Length generalization in arithmetic transformers</title>
       <link>https://sdascoli.github.io/publication/arithmetic/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://sdascoli.github.io/publication/arithmetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ODEFormer: Symbolic Regression of Dynamical Systems with Transformers</title>
+      <link>https://sdascoli.github.io/publication/odeformer/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sdascoli.github.io/publication/odeformer/</guid>
       <description></description>
     </item>
     
